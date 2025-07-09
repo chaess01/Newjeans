@@ -95,4 +95,4 @@
 
 -   GitHub Project, WBS로 일정 관리
 
-<img src='./readme/wbs.png'>
+<img src='./img/wbs.png'>
